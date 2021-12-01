@@ -2,7 +2,7 @@
 
 ## Compare l'éléments de gauche à celui de droite
 
---> tant que l'élément de droite est plus petit on le déplace à gauche
+--> si l'élément de droite est plus petit on le déplace à gauche
 
   --> si l'élement est plus petit il reste à sa place et on compare avec le suivant 
 

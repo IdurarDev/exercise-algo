@@ -6,7 +6,7 @@
 
 --> si l'élément de droite est plus petit il se déplace à gauche 
 
---> puis il regarde avec celui de gauche si il est plus petit 
+--> sinon il regarde avec celui de gauche si il est plus petit 
 
 --> si oui il se déplace encore à gauche --> sinon il reste à sa place 
 

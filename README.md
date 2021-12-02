@@ -5,7 +5,10 @@
 ### add **the bubble sort** file
 #### add of **the pseudo code**
 #### add of **the shema of the bubble sort file**
+##### The diagram of the bubble sort
+![The diagram of the bubble sort](tri-a-bulle.png "Bubble sort")
 
+##### The organigram of the bubble sort
 ![The organigram of the bubble sort](tri-a-bulle.png "Bubble sort")
 
 ## Add of the *sort by insertion* file 

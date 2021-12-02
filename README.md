@@ -17,7 +17,7 @@
 #### Add of *the pseudo code*
 #### Add of *the shema of insertion sort*
 
-![The diagram of the bubble sort](sortbyinsertion.gif "Bubble sort")
+![The diagram of the bubble sort](sortbyinsertion.gif "Insertion sort")
 
 ##### The organigram of *the insert sort*
-![The organigram of the insert sort](tri-par-insertion.png "Bubble sort")
+<!-- ![The organigram of the insert sort](tri-par-insertion.png "Insertion sort") -->

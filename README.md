@@ -8,7 +8,7 @@
 
 ![The organigram of the bubble sort](tri-a-bulle.png "Bubble sort")
 
-## Add of the *tryABulle* file 
+## Add of the *sort by insertion* file 
 
 ### add file **sort by insertion**
 #### add of **the pseudo code**

@@ -15,6 +15,6 @@
 
 ### add file **sort by insertion**
 #### add of **the pseudo code**
-#### add of the shema of **the insert sort** file
+#### add of the organigram **the insert sort** file
 
 ![The organigram of the insert sort](tri-par-insertion.png "Bubble sort")

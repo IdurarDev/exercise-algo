@@ -2,10 +2,10 @@
 
 ## Compare l'éléments de gauche à celui de droite
 
---> si l'élément de droite est plus petit on le déplace à gauche
+--> si l'élément de droite est plus grande on le déplace à droite
 
-  --> si l'élement est plus petit il reste à sa place et on compare avec le suivant 
+  --> si l'élement est plus petit il reste à sa place et on compare le suivant avec celui de droite
 
-    --> ainsi de suite avec chaque élément 
+    --> et ainsi de suite avec chaque élément 
 
-      --> sinon on renvoi les éléments triés
+      --> si les élément sont triés on fini le programme sinon on recommence l'opération du début
